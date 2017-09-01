@@ -6,6 +6,10 @@ of the files are tracked
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 
+It is the space between the working directory and the repository. It gives an
+overview what would be committed the next time and you can decide which parts
+to stage or unstage.
+
 How can you use the staging area to make sure you have one commit per logical
 change?
 
