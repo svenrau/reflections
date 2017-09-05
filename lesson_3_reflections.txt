@@ -6,7 +6,8 @@ local?
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
-    Fill in your answer here
+    My changes can cause conflicts with the version at the remote. I don't know what actually happens
+	if a file was modified and then pushed.
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
