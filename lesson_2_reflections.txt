@@ -13,13 +13,24 @@ to stage or unstage.
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+You can use git diff --staged to compare the staged files to the ones in the repo.
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+Creating experimental versions of the original project.
+
 How do the diagrams help you visualize the branch structure?
+
+Exploring even unreachable commits.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+The result has the features of both branches. 
+
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+
+Automatic merging saves time. Merging manually might occur pretty often. Especially
+when the same code is changed.
